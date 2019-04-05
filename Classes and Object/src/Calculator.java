@@ -12,7 +12,7 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		Scanner input=new Scanner(System.in);
 		Calculator obj=new Calculator();
-		System.out.println("Enter to Two Integer value");
+		System.out.println("Enter to Two Integer value Please...");
 		int val1=input.nextInt();
 		int val2=input.nextInt();
 
